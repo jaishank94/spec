@@ -1,4 +1,3 @@
-Here’s a **README.md** template for your **String Calculator TDD Kata** solution using **Ruby on Rails**:
 
 ---
 
